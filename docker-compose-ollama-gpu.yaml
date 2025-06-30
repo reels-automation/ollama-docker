@@ -60,4 +60,4 @@ services:
 
 networks:
   ollama-docker:
-    external: false
+    external: true
